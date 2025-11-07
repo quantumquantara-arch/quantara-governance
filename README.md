@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/quantumquantara-arch/quantumquantara-arch.github.io/main/assets/q-banner.png" alt="Quantara" width="100%" />
-</p>
-
-# 🌍 Quantara Global Governance Framework
+# 🌍 Quantara Global Governance 
 *A coherence-based architecture for aligning human, artificial, and ecological intelligence.*
 
 Quantara Governance defines **how decisions are made, audited, and improved** across systems powered by Quantara — from local projects to planetary-scale coordination.  
