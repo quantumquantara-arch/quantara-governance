@@ -102,3 +102,4 @@ Each working group must submit one full Charter Review every 180 days.
 ---
 
 _This document serves as a live example for new Quantara governance groups to replicate and customize under their own κ-field domain._
+Update charter-example.md
