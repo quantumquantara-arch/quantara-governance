@@ -1,4 +1,4 @@
-# 🌍 Quantara Global Governance 
+# 🌍 Quantara Global Governance
 *A coherence-based architecture for aligning human, artificial, and ecological intelligence.*
 
 Quantara Governance defines **how decisions are made, audited, and improved** across systems powered by Quantara — from local projects to planetary-scale coordination.  
