@@ -53,3 +53,20 @@ cd quantara-governance-framework
 - **Dissent & risks:**  
 - **Enforcement hooks:**  
 - **Next review (Veyn):**
+
+---
+
+## Minimal Process (v0.1)
+1. **Initiate** — declare scope, affected systems, stakeholders.  
+2. **Signal** — collect κ/φ/ψ metrics, risks, intents, alternatives.  
+3. **Deliberate** — structured dialogue with Luméren semantics.  
+4. **Decide** — record decision + EBI score + dissent notes.  
+5. **Enforce** — apply policy/controls with audit hooks.  
+6. **Review** — schedule Veyn symmetry reviews; update if κ drifts.  
+
+---
+
+## Quick Start (templates)
+```bash
+git clone https://github.com/quantumquantara-arch/quantara-governance
+cd quantara-governance
